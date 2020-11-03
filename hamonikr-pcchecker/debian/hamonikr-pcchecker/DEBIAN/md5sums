@@ -1,0 +1,15 @@
+32c15fb771ba38ecf900d977159fab47  usr/bin/count.py
+440ec6aaf6193ea6c0cc9c3ed500c223  usr/bin/notify
+cd68407ef9a086002cf179ef1c6f9648  usr/bin/pcchecker
+dee2bd720f6b04edf38fe618d8cba35f  usr/bin/pcchecker_alarm.sh
+b6e62a68cc85fa6adcfc80fa0e192367  usr/bin/pcchecker_asroot
+18c402f43f525e00e4f05c963d5d7598  usr/bin/set.py
+315050b962cd606ebe602640006f5fa9  usr/bin/test.py
+bd4befa9cf173cec77609d3a57b1217c  usr/share/applications/pcchecker.desktop
+b60648406bf5789c477e5991120f71c3  usr/share/doc/hamonikr-pcchecker/changelog.gz
+1401bf93d2269e8d3c4da47ff418cf43  usr/share/doc/hamonikr-pcchecker/copyright
+526f9248a700ac847baea7290ec3354e  usr/share/icons/hicolor/256x256/apps/pc_icon.png
+3f70dc65b15eae8a3fe5dcdb7c20c9dc  usr/share/icons/hicolor/256x256/apps/pc_refresh.png
+82a6ea5508da6c857025ff138138b99d  usr/share/icons/hicolor/256x256/apps/pc_upgrade.png
+13822f9f62e5ff53b8da075fbaff0634  usr/share/icons/hicolor/256x256/apps/pcchecker.png
+f01718e4e715aec948de5c9319537b2f  usr/share/icons/hicolor/256x256/apps/pccheckericon.png

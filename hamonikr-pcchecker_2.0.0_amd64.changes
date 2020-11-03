@@ -1,0 +1,31 @@
+Format: 1.8
+Date: Fri, 02 Oct 2020 13:26:17 +0900
+Source: hamonikr-pcchecker
+Binary: hamonikr-pcchecker
+Architecture: source all
+Version: 2.0.0
+Distribution: stable
+Urgency: low
+Maintainer: HamoniKR <pkg@hamonikr.org>
+Changed-By: ryuseohyeon <ryuish541@gmail.com>
+Description:
+ hamonikr-pcchecker - HamoniKR PC Checker
+Changes:
+ hamonikr-pcchecker (2.0.0) stable; urgency=low
+ .
+   * 2.0 Release : UI update, functions upgrade
+Checksums-Sha1:
+ 14477d945acbce222ac0c639b0614aa020bf88c7 564 hamonikr-pcchecker_2.0.0.dsc
+ 09245fb31bded353829ce267841887513721b394 57840 hamonikr-pcchecker_2.0.0.tar.xz
+ 7a6b4e4126213fe55eecea2e68d6534211ed1628 44276 hamonikr-pcchecker_2.0.0_all.deb
+ 9830e126f9798f627b69ae02933c9cf5e14a8f40 13527 hamonikr-pcchecker_2.0.0_amd64.buildinfo
+Checksums-Sha256:
+ 368bed1c90cd95a2b7887ac45143081014d61a15ebe446b8b12424dae02efd3a 564 hamonikr-pcchecker_2.0.0.dsc
+ e99881fb684c8162424f4500b93c8cb8da3b0fb1522ba4466e819b92e52dab32 57840 hamonikr-pcchecker_2.0.0.tar.xz
+ 339be1e37798c2f7b5fee89e1b3e68fb0a7030051cb8c0a1d3c68452eb17dfe3 44276 hamonikr-pcchecker_2.0.0_all.deb
+ 5709bc1cc564c82497b742ff6a322218db0b1a01cccc5a98618a257c276d6f26 13527 hamonikr-pcchecker_2.0.0_amd64.buildinfo
+Files:
+ e153c1fe276b890df55cb7b06c014d3f 564 utils optional hamonikr-pcchecker_2.0.0.dsc
+ 5145620be64e9cf681a4677335421eb3 57840 utils optional hamonikr-pcchecker_2.0.0.tar.xz
+ f9a1622f796824e3f222d3377cda12ff 44276 utils optional hamonikr-pcchecker_2.0.0_all.deb
+ fad5913c842faaf5d4c5fad866c3e239 13527 utils optional hamonikr-pcchecker_2.0.0_amd64.buildinfo

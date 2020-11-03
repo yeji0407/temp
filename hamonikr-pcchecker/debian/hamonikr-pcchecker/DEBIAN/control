@@ -1,0 +1,9 @@
+Package: hamonikr-pcchecker
+Version: 2.0.0
+Architecture: all
+Maintainer: HamoniKR <pkg@hamonikr.org>
+Installed-Size: 97
+Pre-Depends: dpkg (>= 1.15.6)
+Section: utils
+Priority: optional
+Description: HamoniKR PC Checker
